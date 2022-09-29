@@ -1,0 +1,1 @@
+import{c as o}from"./index.928e1f3b.js";const s={getSchool:"/oapi/school/getSchool",schoolModify:"/oapi/school/save",schoolIsExist:"/oapi/school/isExist"},l=c=>o({method:"post",url:s.schoolModify,data:c}),h=()=>o({method:"get",url:s.schoolIsExist});export{l as a,h as s};

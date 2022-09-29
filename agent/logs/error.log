@@ -1,0 +1,1325 @@
+2022/09/14 01:47:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/14 01:47:52 [notice] 24#24: gracefully shutting down
+2022/09/14 01:47:52 [notice] 25#25: gracefully shutting down
+2022/09/14 01:47:52 [notice] 26#26: gracefully shutting down
+2022/09/14 01:47:52 [notice] 29#29: gracefully shutting down
+2022/09/14 01:47:52 [notice] 24#24: exiting
+2022/09/14 01:47:52 [notice] 28#28: gracefully shutting down
+2022/09/14 01:47:52 [notice] 25#25: exiting
+2022/09/14 01:47:52 [notice] 26#26: exiting
+2022/09/14 01:47:52 [notice] 29#29: exiting
+2022/09/14 01:47:52 [notice] 28#28: exiting
+2022/09/14 01:47:52 [notice] 29#29: exit
+2022/09/14 01:47:52 [notice] 28#28: exit
+2022/09/14 01:47:52 [notice] 24#24: exit
+2022/09/14 01:47:52 [notice] 25#25: exit
+2022/09/14 01:47:52 [notice] 26#26: exit
+2022/09/14 01:47:52 [notice] 27#27: gracefully shutting down
+2022/09/14 01:47:52 [notice] 27#27: exiting
+2022/09/14 01:47:52 [notice] 27#27: exit
+2022/09/14 01:47:52 [notice] 30#30: gracefully shutting down
+2022/09/14 01:47:52 [notice] 31#31: gracefully shutting down
+2022/09/14 01:47:52 [notice] 30#30: exiting
+2022/09/14 01:47:52 [notice] 31#31: exiting
+2022/09/14 01:47:52 [notice] 30#30: exit
+2022/09/14 01:47:52 [notice] 31#31: exit
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/14 01:47:52 [notice] 1#1: worker process 28 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: worker process 29 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: worker process 30 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: worker process 31 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/14 01:47:52 [notice] 1#1: worker process 24 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/14 01:47:52 [notice] 1#1: worker process 26 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: worker process 25 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/14 01:47:52 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/14 01:47:52 [notice] 1#1: worker process 27 exited with code 0
+2022/09/14 01:47:52 [notice] 1#1: exit
+2022/09/14 01:47:52 [notice] 1#1: using the "epoll" event method
+2022/09/14 01:47:52 [notice] 1#1: nginx/1.22.0
+2022/09/14 01:47:52 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/14 01:47:52 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/14 01:47:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/14 01:47:52 [notice] 1#1: start worker processes
+2022/09/14 01:47:52 [notice] 1#1: start worker process 23
+2022/09/14 01:47:52 [notice] 1#1: start worker process 24
+2022/09/14 01:47:52 [notice] 1#1: start worker process 25
+2022/09/14 01:47:52 [notice] 1#1: start worker process 26
+2022/09/14 01:47:52 [notice] 1#1: start worker process 27
+2022/09/14 01:47:52 [notice] 1#1: start worker process 28
+2022/09/14 01:47:52 [notice] 1#1: start worker process 29
+2022/09/14 01:47:52 [notice] 1#1: start worker process 30
+2022/09/14 01:49:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/14 01:49:22 [notice] 24#24: gracefully shutting down
+2022/09/14 01:49:22 [notice] 28#28: gracefully shutting down
+2022/09/14 01:49:22 [notice] 29#29: gracefully shutting down
+2022/09/14 01:49:22 [notice] 25#25: gracefully shutting down
+2022/09/14 01:49:22 [notice] 30#30: gracefully shutting down
+2022/09/14 01:49:22 [notice] 24#24: exiting
+2022/09/14 01:49:22 [notice] 28#28: exiting
+2022/09/14 01:49:22 [notice] 29#29: exiting
+2022/09/14 01:49:22 [notice] 25#25: exiting
+2022/09/14 01:49:22 [notice] 30#30: exiting
+2022/09/14 01:49:22 [notice] 26#26: gracefully shutting down
+2022/09/14 01:49:22 [notice] 26#26: exiting
+2022/09/14 01:49:22 [notice] 27#27: gracefully shutting down
+2022/09/14 01:49:22 [notice] 27#27: exiting
+2022/09/14 01:49:22 [notice] 25#25: exit
+2022/09/14 01:49:22 [notice] 28#28: exit
+2022/09/14 01:49:22 [notice] 24#24: exit
+2022/09/14 01:49:22 [notice] 29#29: exit
+2022/09/14 01:49:22 [notice] 26#26: exit
+2022/09/14 01:49:22 [notice] 27#27: exit
+2022/09/14 01:49:22 [notice] 23#23: gracefully shutting down
+2022/09/14 01:49:22 [notice] 23#23: exiting
+2022/09/14 01:49:22 [notice] 30#30: exit
+2022/09/14 01:49:22 [notice] 23#23: exit
+2022/09/14 01:49:22 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/14 01:49:22 [notice] 1#1: worker process 25 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 23 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 26 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 24 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 27 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 28 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 29 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: worker process 30 exited with code 0
+2022/09/14 01:49:22 [notice] 1#1: exit
+2022/09/14 01:49:22 [notice] 1#1: using the "epoll" event method
+2022/09/14 01:49:22 [notice] 1#1: nginx/1.22.0
+2022/09/14 01:49:22 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/14 01:49:22 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/14 01:49:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/14 01:49:22 [notice] 1#1: start worker processes
+2022/09/14 01:49:22 [notice] 1#1: start worker process 24
+2022/09/14 01:49:22 [notice] 1#1: start worker process 25
+2022/09/14 01:49:22 [notice] 1#1: start worker process 26
+2022/09/14 01:49:22 [notice] 1#1: start worker process 27
+2022/09/14 01:49:22 [notice] 1#1: start worker process 28
+2022/09/14 01:49:22 [notice] 1#1: start worker process 29
+2022/09/14 01:49:22 [notice] 1#1: start worker process 30
+2022/09/14 01:49:22 [notice] 1#1: start worker process 31
+2022/09/14 01:57:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/14 01:57:32 [notice] 24#24: gracefully shutting down
+2022/09/14 01:57:32 [notice] 27#27: gracefully shutting down
+2022/09/14 01:57:32 [notice] 28#28: gracefully shutting down
+2022/09/14 01:57:32 [notice] 25#25: gracefully shutting down
+2022/09/14 01:57:32 [notice] 24#24: exiting
+2022/09/14 01:57:32 [notice] 30#30: gracefully shutting down
+2022/09/14 01:57:32 [notice] 25#25: exiting
+2022/09/14 01:57:32 [notice] 27#27: exiting
+2022/09/14 01:57:32 [notice] 28#28: exiting
+2022/09/14 01:57:32 [notice] 30#30: exiting
+2022/09/14 01:57:32 [notice] 25#25: exit
+2022/09/14 01:57:32 [notice] 24#24: exit
+2022/09/14 01:57:32 [notice] 30#30: exit
+2022/09/14 01:57:32 [notice] 28#28: exit
+2022/09/14 01:57:32 [notice] 27#27: exit
+2022/09/14 01:57:32 [notice] 31#31: gracefully shutting down
+2022/09/14 01:57:32 [notice] 31#31: exiting
+2022/09/14 01:57:32 [notice] 29#29: gracefully shutting down
+2022/09/14 01:57:32 [notice] 29#29: exiting
+2022/09/14 01:57:32 [notice] 31#31: exit
+2022/09/14 01:57:32 [notice] 26#26: gracefully shutting down
+2022/09/14 01:57:32 [notice] 26#26: exiting
+2022/09/14 01:57:32 [notice] 29#29: exit
+2022/09/14 01:57:32 [notice] 26#26: exit
+2022/09/14 01:57:32 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/14 01:57:32 [notice] 1#1: worker process 25 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: worker process 30 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:57:32 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/14 01:57:32 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/14 01:57:32 [notice] 1#1: worker process 24 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: worker process 27 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: worker process 29 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: worker process 31 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:57:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/14 01:57:32 [notice] 1#1: worker process 28 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:57:32 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/14 01:57:32 [notice] 1#1: worker process 26 exited with code 0
+2022/09/14 01:57:32 [notice] 1#1: exit
+2022/09/14 01:57:33 [notice] 1#1: using the "epoll" event method
+2022/09/14 01:57:33 [notice] 1#1: nginx/1.22.0
+2022/09/14 01:57:33 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/14 01:57:33 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/14 01:57:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/14 01:57:33 [notice] 1#1: start worker processes
+2022/09/14 01:57:33 [notice] 1#1: start worker process 23
+2022/09/14 01:57:33 [notice] 1#1: start worker process 24
+2022/09/14 01:57:33 [notice] 1#1: start worker process 25
+2022/09/14 01:57:33 [notice] 1#1: start worker process 26
+2022/09/14 01:57:33 [notice] 1#1: start worker process 27
+2022/09/14 01:57:33 [notice] 1#1: start worker process 28
+2022/09/14 01:57:33 [notice] 1#1: start worker process 29
+2022/09/14 01:57:33 [notice] 1#1: start worker process 30
+2022/09/14 01:58:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/14 01:58:42 [notice] 24#24: gracefully shutting down
+2022/09/14 01:58:42 [notice] 26#26: gracefully shutting down
+2022/09/14 01:58:42 [notice] 27#27: gracefully shutting down
+2022/09/14 01:58:42 [notice] 28#28: gracefully shutting down
+2022/09/14 01:58:42 [notice] 29#29: gracefully shutting down
+2022/09/14 01:58:42 [notice] 30#30: gracefully shutting down
+2022/09/14 01:58:42 [notice] 23#23: gracefully shutting down
+2022/09/14 01:58:42 [notice] 24#24: exiting
+2022/09/14 01:58:42 [notice] 26#26: exiting
+2022/09/14 01:58:42 [notice] 27#27: exiting
+2022/09/14 01:58:42 [notice] 28#28: exiting
+2022/09/14 01:58:42 [notice] 29#29: exiting
+2022/09/14 01:58:42 [notice] 30#30: exiting
+2022/09/14 01:58:42 [notice] 23#23: exiting
+2022/09/14 01:58:42 [notice] 26#26: exit
+2022/09/14 01:58:42 [notice] 23#23: exit
+2022/09/14 01:58:42 [notice] 28#28: exit
+2022/09/14 01:58:42 [notice] 29#29: exit
+2022/09/14 01:58:42 [notice] 24#24: exit
+2022/09/14 01:58:42 [notice] 27#27: exit
+2022/09/14 01:58:42 [notice] 30#30: exit
+2022/09/14 01:58:42 [notice] 25#25: gracefully shutting down
+2022/09/14 01:58:42 [notice] 25#25: exiting
+2022/09/14 01:58:42 [notice] 25#25: exit
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/14 01:58:42 [notice] 1#1: worker process 23 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: worker process 25 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/14 01:58:42 [notice] 1#1: worker process 29 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/14 01:58:42 [notice] 1#1: worker process 30 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/14 01:58:42 [notice] 1#1: worker process 24 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: worker process 27 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: worker process 26 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/14 01:58:42 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/14 01:58:42 [notice] 1#1: worker process 28 exited with code 0
+2022/09/14 01:58:42 [notice] 1#1: exit
+2022/09/14 01:58:42 [notice] 1#1: using the "epoll" event method
+2022/09/14 01:58:42 [notice] 1#1: nginx/1.22.0
+2022/09/14 01:58:42 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/14 01:58:42 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/14 01:58:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/14 01:58:42 [notice] 1#1: start worker processes
+2022/09/14 01:58:42 [notice] 1#1: start worker process 24
+2022/09/14 01:58:42 [notice] 1#1: start worker process 25
+2022/09/14 01:58:42 [notice] 1#1: start worker process 26
+2022/09/14 01:58:42 [notice] 1#1: start worker process 27
+2022/09/14 01:58:42 [notice] 1#1: start worker process 28
+2022/09/14 01:58:42 [notice] 1#1: start worker process 29
+2022/09/14 01:58:42 [notice] 1#1: start worker process 30
+2022/09/14 01:58:42 [notice] 1#1: start worker process 31
+2022/09/14 10:26:36 [warn] 25#25: *1414 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/save HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/15 03:17:00 [error] 30#30: *2136 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/save HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/save", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/15 03:25:51 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:51 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:53 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:53 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:54 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:54 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:54 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:54 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:55 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:56 [error] 30#30: *2152 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:25:56 [error] 30#30: *2153 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/15 03:57:26 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:26 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:28 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:28 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:29 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2262 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 03:57:30 [error] 31#31: *2263 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/15 04:03:21 [error] 28#28: *2331 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209150091 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209150091", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209150091"
+2022/09/16 10:25:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/16 10:25:43 [notice] 24#24: gracefully shutting down
+2022/09/16 10:25:43 [notice] 31#31: gracefully shutting down
+2022/09/16 10:25:43 [notice] 24#24: exiting
+2022/09/16 10:25:43 [notice] 27#27: gracefully shutting down
+2022/09/16 10:25:43 [notice] 31#31: exiting
+2022/09/16 10:25:43 [notice] 27#27: exiting
+2022/09/16 10:25:43 [notice] 24#24: exit
+2022/09/16 10:25:43 [notice] 31#31: exit
+2022/09/16 10:25:43 [notice] 27#27: exit
+2022/09/16 10:25:43 [notice] 29#29: gracefully shutting down
+2022/09/16 10:25:43 [notice] 28#28: gracefully shutting down
+2022/09/16 10:25:43 [notice] 26#26: gracefully shutting down
+2022/09/16 10:25:43 [notice] 29#29: exiting
+2022/09/16 10:25:43 [notice] 28#28: exiting
+2022/09/16 10:25:43 [notice] 26#26: exiting
+2022/09/16 10:25:43 [notice] 25#25: gracefully shutting down
+2022/09/16 10:25:43 [notice] 25#25: exiting
+2022/09/16 10:25:43 [notice] 29#29: exit
+2022/09/16 10:25:43 [notice] 28#28: exit
+2022/09/16 10:25:43 [notice] 26#26: exit
+2022/09/16 10:25:43 [notice] 25#25: exit
+2022/09/16 10:25:43 [notice] 30#30: gracefully shutting down
+2022/09/16 10:25:43 [notice] 30#30: exiting
+2022/09/16 10:25:43 [notice] 30#30: exit
+2022/09/16 10:25:43 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/16 10:25:43 [notice] 1#1: worker process 28 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: worker process 31 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/16 10:25:43 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/09/16 10:25:43 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/16 10:25:43 [notice] 1#1: worker process 24 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: worker process 25 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: worker process 30 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/16 10:25:43 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/16 10:25:43 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/16 10:25:43 [notice] 1#1: worker process 26 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: worker process 27 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: worker process 29 exited with code 0
+2022/09/16 10:25:43 [notice] 1#1: exit
+2022/09/16 10:25:44 [notice] 1#1: using the "epoll" event method
+2022/09/16 10:25:44 [notice] 1#1: nginx/1.22.0
+2022/09/16 10:25:44 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/16 10:25:44 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/16 10:25:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/16 10:25:44 [notice] 1#1: start worker processes
+2022/09/16 10:25:44 [notice] 1#1: start worker process 24
+2022/09/16 10:25:44 [notice] 1#1: start worker process 25
+2022/09/16 10:25:44 [notice] 1#1: start worker process 26
+2022/09/16 10:25:44 [notice] 1#1: start worker process 27
+2022/09/16 10:25:44 [notice] 1#1: start worker process 28
+2022/09/16 10:25:44 [notice] 1#1: start worker process 29
+2022/09/16 10:25:44 [notice] 1#1: start worker process 30
+2022/09/16 10:25:44 [notice] 1#1: start worker process 31
+2022/09/16 11:40:33 [error] 25#25: *40 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/16 11:40:33 [error] 25#25: *44 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/16 11:40:38 [error] 25#25: *40 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/16 11:40:38 [error] 25#25: *44 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/16 11:40:50 [error] 25#25: *40 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/16 11:40:50 [error] 25#25: *44 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.141, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:11 [error] 27#27: *5433 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/student/group/detail?planCode=202209190115 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/student/group/detail?planCode=202209190115", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209190115"
+2022/09/19 07:02:16 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/totalProgress HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/totalProgress", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209190115"
+2022/09/19 07:02:16 [error] 27#27: *5433 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209190115"
+2022/09/19 07:02:21 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/totalProgress HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/totalProgress", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209190115"
+2022/09/19 07:02:21 [error] 27#27: *5433 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209190115"
+2022/09/19 07:02:35 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:35 [error] 27#27: *5433 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:41 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:41 [error] 27#27: *5433 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:50 [error] 27#27: *5454 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/19 07:02:51 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:51 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/19 07:02:53 [error] 27#27: *5454 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 07:02:53 [error] 27#27: *5435 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/19 08:03:29 [error] 27#27: *5511 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.143.60, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/20 10:16:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 10:16:27 [notice] 29#29: gracefully shutting down
+2022/09/20 10:16:27 [notice] 24#24: gracefully shutting down
+2022/09/20 10:16:27 [notice] 24#24: exiting
+2022/09/20 10:16:27 [notice] 29#29: exiting
+2022/09/20 10:16:27 [notice] 24#24: exit
+2022/09/20 10:16:27 [notice] 29#29: exit
+2022/09/20 10:16:27 [notice] 25#25: gracefully shutting down
+2022/09/20 10:16:27 [notice] 31#31: gracefully shutting down
+2022/09/20 10:16:27 [notice] 25#25: exiting
+2022/09/20 10:16:27 [notice] 26#26: gracefully shutting down
+2022/09/20 10:16:27 [notice] 31#31: exiting
+2022/09/20 10:16:27 [notice] 26#26: exiting
+2022/09/20 10:16:27 [notice] 31#31: exit
+2022/09/20 10:16:27 [notice] 25#25: exit
+2022/09/20 10:16:27 [notice] 26#26: exit
+2022/09/20 10:16:27 [notice] 28#28: gracefully shutting down
+2022/09/20 10:16:27 [notice] 27#27: gracefully shutting down
+2022/09/20 10:16:27 [notice] 28#28: exiting
+2022/09/20 10:16:27 [notice] 27#27: exiting
+2022/09/20 10:16:27 [notice] 30#30: gracefully shutting down
+2022/09/20 10:16:27 [notice] 30#30: exiting
+2022/09/20 10:16:27 [notice] 27#27: exit
+2022/09/20 10:16:27 [notice] 28#28: exit
+2022/09/20 10:16:27 [notice] 30#30: exit
+2022/09/20 10:16:27 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 10:16:27 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 10:16:27 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/20 10:16:27 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/20 10:16:27 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: worker process 31 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 10:16:27 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/20 10:16:27 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/20 10:16:27 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 10:16:27 [notice] 1#1: exit
+2022/09/20 10:16:28 [notice] 1#1: using the "epoll" event method
+2022/09/20 10:16:28 [notice] 1#1: nginx/1.22.0
+2022/09/20 10:16:28 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 10:16:28 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 10:16:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 10:16:28 [notice] 1#1: start worker processes
+2022/09/20 10:16:28 [notice] 1#1: start worker process 24
+2022/09/20 10:16:28 [notice] 1#1: start worker process 25
+2022/09/20 10:16:28 [notice] 1#1: start worker process 26
+2022/09/20 10:16:28 [notice] 1#1: start worker process 27
+2022/09/20 10:16:28 [notice] 1#1: start worker process 28
+2022/09/20 10:16:28 [notice] 1#1: start worker process 29
+2022/09/20 10:16:28 [notice] 1#1: start worker process 30
+2022/09/20 10:16:28 [notice] 1#1: start worker process 31
+2022/09/20 12:21:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 12:21:49 [notice] 24#24: gracefully shutting down
+2022/09/20 12:21:49 [notice] 28#28: gracefully shutting down
+2022/09/20 12:21:49 [notice] 30#30: gracefully shutting down
+2022/09/20 12:21:49 [notice] 29#29: gracefully shutting down
+2022/09/20 12:21:49 [notice] 24#24: exiting
+2022/09/20 12:21:49 [notice] 31#31: gracefully shutting down
+2022/09/20 12:21:49 [notice] 27#27: gracefully shutting down
+2022/09/20 12:21:49 [notice] 28#28: exiting
+2022/09/20 12:21:49 [notice] 29#29: exiting
+2022/09/20 12:21:49 [notice] 30#30: exiting
+2022/09/20 12:21:49 [notice] 31#31: exiting
+2022/09/20 12:21:49 [notice] 27#27: exiting
+2022/09/20 12:21:49 [notice] 24#24: exit
+2022/09/20 12:21:49 [notice] 29#29: exit
+2022/09/20 12:21:49 [notice] 30#30: exit
+2022/09/20 12:21:49 [notice] 28#28: exit
+2022/09/20 12:21:49 [notice] 27#27: exit
+2022/09/20 12:21:49 [notice] 31#31: exit
+2022/09/20 12:21:49 [notice] 25#25: gracefully shutting down
+2022/09/20 12:21:49 [notice] 26#26: gracefully shutting down
+2022/09/20 12:21:49 [notice] 25#25: exiting
+2022/09/20 12:21:49 [notice] 26#26: exiting
+2022/09/20 12:21:49 [notice] 25#25: exit
+2022/09/20 12:21:49 [notice] 26#26: exit
+2022/09/20 12:21:49 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 12:21:49 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: worker process 31 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:21:49 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/20 12:21:49 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/20 12:21:49 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:21:49 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/20 12:21:49 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/20 12:21:49 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 12:21:49 [notice] 1#1: exit
+2022/09/20 12:21:49 [notice] 1#1: using the "epoll" event method
+2022/09/20 12:21:49 [notice] 1#1: nginx/1.22.0
+2022/09/20 12:21:49 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 12:21:49 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 12:21:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 12:21:49 [notice] 1#1: start worker processes
+2022/09/20 12:21:49 [notice] 1#1: start worker process 24
+2022/09/20 12:21:49 [notice] 1#1: start worker process 25
+2022/09/20 12:21:49 [notice] 1#1: start worker process 26
+2022/09/20 12:21:49 [notice] 1#1: start worker process 27
+2022/09/20 12:21:49 [notice] 1#1: start worker process 28
+2022/09/20 12:21:49 [notice] 1#1: start worker process 29
+2022/09/20 12:21:49 [notice] 1#1: start worker process 30
+2022/09/20 12:21:49 [notice] 1#1: start worker process 31
+2022/09/20 12:28:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 12:28:25 [notice] 28#28: gracefully shutting down
+2022/09/20 12:28:25 [notice] 25#25: gracefully shutting down
+2022/09/20 12:28:25 [notice] 29#29: gracefully shutting down
+2022/09/20 12:28:25 [notice] 30#30: gracefully shutting down
+2022/09/20 12:28:25 [notice] 31#31: gracefully shutting down
+2022/09/20 12:28:25 [notice] 26#26: gracefully shutting down
+2022/09/20 12:28:25 [notice] 28#28: exiting
+2022/09/20 12:28:25 [notice] 25#25: exiting
+2022/09/20 12:28:25 [notice] 29#29: exiting
+2022/09/20 12:28:25 [notice] 30#30: exiting
+2022/09/20 12:28:25 [notice] 31#31: exiting
+2022/09/20 12:28:25 [notice] 26#26: exiting
+2022/09/20 12:28:25 [notice] 25#25: exit
+2022/09/20 12:28:25 [notice] 28#28: exit
+2022/09/20 12:28:25 [notice] 29#29: exit
+2022/09/20 12:28:25 [notice] 30#30: exit
+2022/09/20 12:28:25 [notice] 31#31: exit
+2022/09/20 12:28:25 [notice] 26#26: exit
+2022/09/20 12:28:25 [notice] 24#24: gracefully shutting down
+2022/09/20 12:28:25 [notice] 24#24: exiting
+2022/09/20 12:28:25 [notice] 27#27: gracefully shutting down
+2022/09/20 12:28:25 [notice] 27#27: exiting
+2022/09/20 12:28:25 [notice] 24#24: exit
+2022/09/20 12:28:25 [notice] 27#27: exit
+2022/09/20 12:28:25 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/20 12:28:25 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: worker process 31 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:28:25 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 12:28:25 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 12:28:25 [notice] 1#1: exit
+2022/09/20 12:28:25 [notice] 1#1: using the "epoll" event method
+2022/09/20 12:28:25 [notice] 1#1: nginx/1.22.0
+2022/09/20 12:28:25 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 12:28:25 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 12:28:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 12:28:25 [notice] 1#1: start worker processes
+2022/09/20 12:28:25 [notice] 1#1: start worker process 24
+2022/09/20 12:28:25 [notice] 1#1: start worker process 25
+2022/09/20 12:28:25 [notice] 1#1: start worker process 26
+2022/09/20 12:28:25 [notice] 1#1: start worker process 27
+2022/09/20 12:28:25 [notice] 1#1: start worker process 28
+2022/09/20 12:28:25 [notice] 1#1: start worker process 29
+2022/09/20 12:28:25 [notice] 1#1: start worker process 30
+2022/09/20 12:28:25 [notice] 1#1: start worker process 31
+2022/09/20 12:33:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 12:33:43 [notice] 24#24: gracefully shutting down
+2022/09/20 12:33:43 [notice] 26#26: gracefully shutting down
+2022/09/20 12:33:43 [notice] 25#25: gracefully shutting down
+2022/09/20 12:33:43 [notice] 27#27: gracefully shutting down
+2022/09/20 12:33:43 [notice] 24#24: exiting
+2022/09/20 12:33:43 [notice] 26#26: exiting
+2022/09/20 12:33:43 [notice] 25#25: exiting
+2022/09/20 12:33:43 [notice] 27#27: exiting
+2022/09/20 12:33:43 [notice] 30#30: gracefully shutting down
+2022/09/20 12:33:43 [notice] 30#30: exiting
+2022/09/20 12:33:43 [notice] 27#27: exit
+2022/09/20 12:33:43 [notice] 24#24: exit
+2022/09/20 12:33:43 [notice] 25#25: exit
+2022/09/20 12:33:43 [notice] 26#26: exit
+2022/09/20 12:33:43 [notice] 30#30: exit
+2022/09/20 12:33:43 [notice] 29#29: gracefully shutting down
+2022/09/20 12:33:43 [notice] 29#29: exiting
+2022/09/20 12:33:43 [notice] 29#29: exit
+2022/09/20 12:33:43 [notice] 28#28: gracefully shutting down
+2022/09/20 12:33:43 [notice] 31#31: gracefully shutting down
+2022/09/20 12:33:43 [notice] 28#28: exiting
+2022/09/20 12:33:43 [notice] 31#31: exiting
+2022/09/20 12:33:43 [notice] 28#28: exit
+2022/09/20 12:33:43 [notice] 31#31: exit
+2022/09/20 12:33:43 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/20 12:33:43 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: worker process 31 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:33:43 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/20 12:33:43 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 12:33:43 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 12:33:43 [notice] 1#1: exit
+2022/09/20 12:33:44 [notice] 1#1: using the "epoll" event method
+2022/09/20 12:33:44 [notice] 1#1: nginx/1.22.0
+2022/09/20 12:33:44 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 12:33:44 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 12:33:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 12:33:44 [notice] 1#1: start worker processes
+2022/09/20 12:33:44 [notice] 1#1: start worker process 23
+2022/09/20 12:33:44 [notice] 1#1: start worker process 24
+2022/09/20 12:33:44 [notice] 1#1: start worker process 25
+2022/09/20 12:33:44 [notice] 1#1: start worker process 26
+2022/09/20 12:33:44 [notice] 1#1: start worker process 27
+2022/09/20 12:33:44 [notice] 1#1: start worker process 28
+2022/09/20 12:33:44 [notice] 1#1: start worker process 29
+2022/09/20 12:33:44 [notice] 1#1: start worker process 30
+2022/09/20 12:37:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 12:37:21 [notice] 23#23: gracefully shutting down
+2022/09/20 12:37:21 [notice] 23#23: exiting
+2022/09/20 12:37:21 [notice] 27#27: gracefully shutting down
+2022/09/20 12:37:21 [notice] 30#30: gracefully shutting down
+2022/09/20 12:37:21 [notice] 27#27: exiting
+2022/09/20 12:37:21 [notice] 30#30: exiting
+2022/09/20 12:37:21 [notice] 23#23: exit
+2022/09/20 12:37:21 [notice] 27#27: exit
+2022/09/20 12:37:21 [notice] 30#30: exit
+2022/09/20 12:37:21 [notice] 26#26: gracefully shutting down
+2022/09/20 12:37:21 [notice] 26#26: exiting
+2022/09/20 12:37:21 [notice] 28#28: gracefully shutting down
+2022/09/20 12:37:21 [notice] 28#28: exiting
+2022/09/20 12:37:21 [notice] 26#26: exit
+2022/09/20 12:37:21 [notice] 28#28: exit
+2022/09/20 12:37:21 [notice] 24#24: gracefully shutting down
+2022/09/20 12:37:21 [notice] 24#24: exiting
+2022/09/20 12:37:21 [notice] 24#24: exit
+2022/09/20 12:37:21 [notice] 25#25: gracefully shutting down
+2022/09/20 12:37:21 [notice] 25#25: exiting
+2022/09/20 12:37:21 [notice] 25#25: exit
+2022/09/20 12:37:21 [notice] 29#29: gracefully shutting down
+2022/09/20 12:37:21 [notice] 29#29: exiting
+2022/09/20 12:37:21 [notice] 29#29: exit
+2022/09/20 12:37:21 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/09/20 12:37:21 [notice] 1#1: worker process 23 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:37:21 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/20 12:37:21 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/20 12:37:21 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:37:21 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 12:37:21 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 12:37:21 [notice] 1#1: exit
+2022/09/20 12:37:21 [notice] 1#1: using the "epoll" event method
+2022/09/20 12:37:21 [notice] 1#1: nginx/1.22.0
+2022/09/20 12:37:21 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 12:37:21 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 12:37:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 12:37:21 [notice] 1#1: start worker processes
+2022/09/20 12:37:21 [notice] 1#1: start worker process 23
+2022/09/20 12:37:21 [notice] 1#1: start worker process 24
+2022/09/20 12:37:21 [notice] 1#1: start worker process 25
+2022/09/20 12:37:21 [notice] 1#1: start worker process 26
+2022/09/20 12:37:21 [notice] 1#1: start worker process 27
+2022/09/20 12:37:21 [notice] 1#1: start worker process 28
+2022/09/20 12:37:21 [notice] 1#1: start worker process 29
+2022/09/20 12:37:21 [notice] 1#1: start worker process 30
+2022/09/20 12:40:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/20 12:40:20 [notice] 23#23: gracefully shutting down
+2022/09/20 12:40:20 [notice] 27#27: gracefully shutting down
+2022/09/20 12:40:20 [notice] 23#23: exiting
+2022/09/20 12:40:20 [notice] 25#25: gracefully shutting down
+2022/09/20 12:40:20 [notice] 28#28: gracefully shutting down
+2022/09/20 12:40:20 [notice] 29#29: gracefully shutting down
+2022/09/20 12:40:20 [notice] 24#24: gracefully shutting down
+2022/09/20 12:40:20 [notice] 27#27: exiting
+2022/09/20 12:40:20 [notice] 25#25: exiting
+2022/09/20 12:40:20 [notice] 28#28: exiting
+2022/09/20 12:40:20 [notice] 29#29: exiting
+2022/09/20 12:40:20 [notice] 24#24: exiting
+2022/09/20 12:40:20 [notice] 27#27: exit
+2022/09/20 12:40:20 [notice] 23#23: exit
+2022/09/20 12:40:20 [notice] 25#25: exit
+2022/09/20 12:40:20 [notice] 24#24: exit
+2022/09/20 12:40:20 [notice] 28#28: exit
+2022/09/20 12:40:20 [notice] 29#29: exit
+2022/09/20 12:40:20 [notice] 30#30: gracefully shutting down
+2022/09/20 12:40:20 [notice] 30#30: exiting
+2022/09/20 12:40:20 [notice] 26#26: gracefully shutting down
+2022/09/20 12:40:20 [notice] 30#30: exit
+2022/09/20 12:40:20 [notice] 26#26: exiting
+2022/09/20 12:40:20 [notice] 26#26: exit
+2022/09/20 12:40:20 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/09/20 12:40:20 [notice] 1#1: worker process 23 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:40:20 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/20 12:40:20 [notice] 1#1: worker process 24 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: worker process 25 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: worker process 26 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: worker process 30 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:40:20 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/20 12:40:20 [notice] 1#1: worker process 28 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/20 12:40:20 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/20 12:40:20 [notice] 1#1: worker process 29 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: worker process 27 exited with code 0
+2022/09/20 12:40:20 [notice] 1#1: exit
+2022/09/20 12:40:20 [notice] 1#1: using the "epoll" event method
+2022/09/20 12:40:20 [notice] 1#1: nginx/1.22.0
+2022/09/20 12:40:20 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/20 12:40:20 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/20 12:40:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/20 12:40:20 [notice] 1#1: start worker processes
+2022/09/20 12:40:20 [notice] 1#1: start worker process 23
+2022/09/20 12:40:20 [notice] 1#1: start worker process 24
+2022/09/20 12:40:20 [notice] 1#1: start worker process 25
+2022/09/20 12:40:20 [notice] 1#1: start worker process 26
+2022/09/20 12:40:20 [notice] 1#1: start worker process 27
+2022/09/20 12:40:20 [notice] 1#1: start worker process 28
+2022/09/20 12:40:20 [notice] 1#1: start worker process 29
+2022/09/20 12:40:20 [notice] 1#1: start worker process 30
+2022/09/21 13:15:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/21 13:15:17 [notice] 29#29: gracefully shutting down
+2022/09/21 13:15:17 [notice] 26#26: gracefully shutting down
+2022/09/21 13:15:17 [notice] 27#27: gracefully shutting down
+2022/09/21 13:15:17 [notice] 29#29: exiting
+2022/09/21 13:15:17 [notice] 26#26: exiting
+2022/09/21 13:15:17 [notice] 27#27: exiting
+2022/09/21 13:15:17 [notice] 29#29: exit
+2022/09/21 13:15:17 [notice] 26#26: exit
+2022/09/21 13:15:17 [notice] 27#27: exit
+2022/09/21 13:15:17 [notice] 23#23: gracefully shutting down
+2022/09/21 13:15:17 [notice] 23#23: exiting
+2022/09/21 13:15:17 [notice] 28#28: gracefully shutting down
+2022/09/21 13:15:17 [notice] 28#28: exiting
+2022/09/21 13:15:17 [notice] 23#23: exit
+2022/09/21 13:15:17 [notice] 28#28: exit
+2022/09/21 13:15:17 [notice] 24#24: gracefully shutting down
+2022/09/21 13:15:17 [notice] 24#24: exiting
+2022/09/21 13:15:17 [notice] 24#24: exit
+2022/09/21 13:15:17 [notice] 25#25: gracefully shutting down
+2022/09/21 13:15:17 [notice] 25#25: exiting
+2022/09/21 13:15:17 [notice] 25#25: exit
+2022/09/21 13:15:17 [notice] 30#30: gracefully shutting down
+2022/09/21 13:15:17 [notice] 30#30: exiting
+2022/09/21 13:15:17 [notice] 30#30: exit
+2022/09/21 13:15:17 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/09/21 13:15:17 [notice] 1#1: worker process 23 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: worker process 26 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: worker process 27 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: worker process 28 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: worker process 29 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 13:15:17 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/21 13:15:17 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/21 13:15:17 [notice] 1#1: worker process 24 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: worker process 25 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 13:15:17 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/21 13:15:17 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/21 13:15:17 [notice] 1#1: worker process 30 exited with code 0
+2022/09/21 13:15:17 [notice] 1#1: exit
+2022/09/21 13:15:18 [notice] 1#1: using the "epoll" event method
+2022/09/21 13:15:18 [notice] 1#1: nginx/1.22.0
+2022/09/21 13:15:18 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/21 13:15:18 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/21 13:15:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/21 13:15:18 [notice] 1#1: start worker processes
+2022/09/21 13:15:18 [notice] 1#1: start worker process 24
+2022/09/21 13:15:18 [notice] 1#1: start worker process 25
+2022/09/21 13:15:18 [notice] 1#1: start worker process 26
+2022/09/21 13:15:18 [notice] 1#1: start worker process 27
+2022/09/21 13:15:18 [notice] 1#1: start worker process 28
+2022/09/21 13:15:18 [notice] 1#1: start worker process 29
+2022/09/21 13:15:18 [notice] 1#1: start worker process 30
+2022/09/21 13:15:18 [notice] 1#1: start worker process 31
+2022/09/21 15:05:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/21 15:05:17 [notice] 24#24: gracefully shutting down
+2022/09/21 15:05:17 [notice] 24#24: exiting
+2022/09/21 15:05:17 [notice] 27#27: gracefully shutting down
+2022/09/21 15:05:17 [notice] 28#28: gracefully shutting down
+2022/09/21 15:05:17 [notice] 25#25: gracefully shutting down
+2022/09/21 15:05:17 [notice] 31#31: gracefully shutting down
+2022/09/21 15:05:17 [notice] 27#27: exiting
+2022/09/21 15:05:17 [notice] 25#25: exiting
+2022/09/21 15:05:17 [notice] 28#28: exiting
+2022/09/21 15:05:17 [notice] 31#31: exiting
+2022/09/21 15:05:17 [notice] 24#24: exit
+2022/09/21 15:05:17 [notice] 25#25: exit
+2022/09/21 15:05:17 [notice] 31#31: exit
+2022/09/21 15:05:17 [notice] 27#27: exit
+2022/09/21 15:05:17 [notice] 28#28: exit
+2022/09/21 15:05:17 [notice] 29#29: gracefully shutting down
+2022/09/21 15:05:17 [notice] 29#29: exiting
+2022/09/21 15:05:17 [notice] 30#30: gracefully shutting down
+2022/09/21 15:05:17 [notice] 26#26: gracefully shutting down
+2022/09/21 15:05:17 [notice] 30#30: exiting
+2022/09/21 15:05:17 [notice] 29#29: exit
+2022/09/21 15:05:17 [notice] 26#26: exiting
+2022/09/21 15:05:17 [notice] 30#30: exit
+2022/09/21 15:05:17 [notice] 26#26: exit
+2022/09/21 15:05:17 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/09/21 15:05:17 [notice] 1#1: worker process 28 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: worker process 24 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: worker process 29 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: worker process 30 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: worker process 31 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 15:05:17 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/21 15:05:17 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/21 15:05:17 [notice] 1#1: worker process 25 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 15:05:17 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/21 15:05:17 [notice] 1#1: worker process 27 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 15:05:17 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/21 15:05:17 [notice] 1#1: worker process 26 exited with code 0
+2022/09/21 15:05:17 [notice] 1#1: exit
+2022/09/21 15:05:17 [notice] 1#1: using the "epoll" event method
+2022/09/21 15:05:17 [notice] 1#1: nginx/1.22.0
+2022/09/21 15:05:17 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/21 15:05:17 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/21 15:05:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/21 15:05:17 [notice] 1#1: start worker processes
+2022/09/21 15:05:17 [notice] 1#1: start worker process 24
+2022/09/21 15:05:17 [notice] 1#1: start worker process 25
+2022/09/21 15:05:17 [notice] 1#1: start worker process 26
+2022/09/21 15:05:17 [notice] 1#1: start worker process 27
+2022/09/21 15:05:17 [notice] 1#1: start worker process 28
+2022/09/21 15:05:17 [notice] 1#1: start worker process 29
+2022/09/21 15:05:17 [notice] 1#1: start worker process 30
+2022/09/21 15:05:17 [notice] 1#1: start worker process 31
+2022/09/21 16:32:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/21 16:32:58 [notice] 24#24: gracefully shutting down
+2022/09/21 16:32:58 [notice] 29#29: gracefully shutting down
+2022/09/21 16:32:58 [notice] 28#28: gracefully shutting down
+2022/09/21 16:32:58 [notice] 25#25: gracefully shutting down
+2022/09/21 16:32:58 [notice] 30#30: gracefully shutting down
+2022/09/21 16:32:58 [notice] 24#24: exiting
+2022/09/21 16:32:58 [notice] 26#26: gracefully shutting down
+2022/09/21 16:32:58 [notice] 29#29: exiting
+2022/09/21 16:32:58 [notice] 28#28: exiting
+2022/09/21 16:32:58 [notice] 25#25: exiting
+2022/09/21 16:32:58 [notice] 30#30: exiting
+2022/09/21 16:32:58 [notice] 26#26: exiting
+2022/09/21 16:32:58 [notice] 24#24: exit
+2022/09/21 16:32:58 [notice] 26#26: exit
+2022/09/21 16:32:58 [notice] 30#30: exit
+2022/09/21 16:32:58 [notice] 25#25: exit
+2022/09/21 16:32:58 [notice] 29#29: exit
+2022/09/21 16:32:58 [notice] 28#28: exit
+2022/09/21 16:32:58 [notice] 27#27: gracefully shutting down
+2022/09/21 16:32:58 [notice] 27#27: exiting
+2022/09/21 16:32:58 [notice] 31#31: gracefully shutting down
+2022/09/21 16:32:58 [notice] 27#27: exit
+2022/09/21 16:32:58 [notice] 31#31: exiting
+2022/09/21 16:32:58 [notice] 31#31: exit
+2022/09/21 16:32:58 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/21 16:32:58 [notice] 1#1: worker process 25 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 28 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 26 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 27 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 29 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 30 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: worker process 31 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/21 16:32:58 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/21 16:32:58 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/21 16:32:58 [notice] 1#1: worker process 24 exited with code 0
+2022/09/21 16:32:58 [notice] 1#1: exit
+2022/09/21 16:32:58 [notice] 1#1: using the "epoll" event method
+2022/09/21 16:32:58 [notice] 1#1: nginx/1.22.0
+2022/09/21 16:32:58 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/21 16:32:58 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/21 16:32:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/21 16:32:58 [notice] 1#1: start worker processes
+2022/09/21 16:32:58 [notice] 1#1: start worker process 24
+2022/09/21 16:32:58 [notice] 1#1: start worker process 25
+2022/09/21 16:32:58 [notice] 1#1: start worker process 26
+2022/09/21 16:32:58 [notice] 1#1: start worker process 27
+2022/09/21 16:32:58 [notice] 1#1: start worker process 28
+2022/09/21 16:32:58 [notice] 1#1: start worker process 29
+2022/09/21 16:32:58 [notice] 1#1: start worker process 30
+2022/09/21 16:32:58 [notice] 1#1: start worker process 31
+2022/09/23 03:10:55 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/23 03:10:55 [notice] 24#24: gracefully shutting down
+2022/09/23 03:10:55 [notice] 28#28: gracefully shutting down
+2022/09/23 03:10:55 [notice] 25#25: gracefully shutting down
+2022/09/23 03:10:55 [notice] 24#24: exiting
+2022/09/23 03:10:55 [notice] 31#31: gracefully shutting down
+2022/09/23 03:10:55 [notice] 28#28: exiting
+2022/09/23 03:10:55 [notice] 25#25: exiting
+2022/09/23 03:10:55 [notice] 28#28: exit
+2022/09/23 03:10:55 [notice] 25#25: exit
+2022/09/23 03:10:55 [notice] 24#24: exit
+2022/09/23 03:10:55 [notice] 26#26: gracefully shutting down
+2022/09/23 03:10:55 [notice] 26#26: exiting
+2022/09/23 03:10:55 [notice] 27#27: gracefully shutting down
+2022/09/23 03:10:55 [notice] 26#26: exit
+2022/09/23 03:10:55 [notice] 27#27: exiting
+2022/09/23 03:10:55 [notice] 30#30: gracefully shutting down
+2022/09/23 03:10:55 [notice] 30#30: exiting
+2022/09/23 03:10:55 [notice] 27#27: exit
+2022/09/23 03:10:55 [notice] 30#30: exit
+2022/09/23 03:10:55 [notice] 29#29: gracefully shutting down
+2022/09/23 03:10:55 [notice] 29#29: exiting
+2022/09/23 03:10:55 [notice] 29#29: exit
+2022/09/23 03:10:55 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/23 03:10:55 [notice] 1#1: worker process 29 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: worker process 26 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 03:10:55 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/23 03:10:55 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/23 03:10:55 [notice] 1#1: worker process 25 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: worker process 27 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: worker process 28 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: worker process 30 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 03:10:55 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/23 03:10:55 [notice] 1#1: worker process 24 exited with code 0
+2022/09/23 03:10:55 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 03:11:06 [notice] 1#1: using the "epoll" event method
+2022/09/23 03:11:06 [notice] 1#1: nginx/1.22.0
+2022/09/23 03:11:06 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/23 03:11:06 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/23 03:11:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/23 03:11:06 [notice] 1#1: start worker processes
+2022/09/23 03:11:06 [notice] 1#1: start worker process 23
+2022/09/23 03:11:06 [notice] 1#1: start worker process 24
+2022/09/23 03:11:06 [notice] 1#1: start worker process 25
+2022/09/23 03:11:06 [notice] 1#1: start worker process 26
+2022/09/23 03:11:06 [notice] 1#1: start worker process 27
+2022/09/23 03:11:06 [notice] 1#1: start worker process 28
+2022/09/23 03:11:06 [notice] 1#1: start worker process 29
+2022/09/23 03:11:06 [notice] 1#1: start worker process 30
+2022/09/23 07:52:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/23 07:52:16 [notice] 23#23: gracefully shutting down
+2022/09/23 07:52:16 [notice] 25#25: gracefully shutting down
+2022/09/23 07:52:16 [notice] 28#28: gracefully shutting down
+2022/09/23 07:52:16 [notice] 29#29: gracefully shutting down
+2022/09/23 07:52:16 [notice] 24#24: gracefully shutting down
+2022/09/23 07:52:16 [notice] 30#30: gracefully shutting down
+2022/09/23 07:52:16 [notice] 23#23: exiting
+2022/09/23 07:52:16 [notice] 25#25: exiting
+2022/09/23 07:52:16 [notice] 28#28: exiting
+2022/09/23 07:52:16 [notice] 29#29: exiting
+2022/09/23 07:52:16 [notice] 24#24: exiting
+2022/09/23 07:52:16 [notice] 30#30: exiting
+2022/09/23 07:52:16 [notice] 27#27: gracefully shutting down
+2022/09/23 07:52:16 [notice] 27#27: exiting
+2022/09/23 07:52:16 [notice] 28#28: exit
+2022/09/23 07:52:16 [notice] 30#30: exit
+2022/09/23 07:52:16 [notice] 24#24: exit
+2022/09/23 07:52:16 [notice] 23#23: exit
+2022/09/23 07:52:16 [notice] 29#29: exit
+2022/09/23 07:52:16 [notice] 27#27: exit
+2022/09/23 07:52:16 [notice] 26#26: gracefully shutting down
+2022/09/23 07:52:16 [notice] 26#26: exiting
+2022/09/23 07:52:16 [notice] 25#25: exit
+2022/09/23 07:52:16 [notice] 26#26: exit
+2022/09/23 07:52:16 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/23 07:52:16 [notice] 1#1: worker process 25 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 23 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 24 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 26 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 28 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 29 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 27 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: worker process 30 exited with code 0
+2022/09/23 07:52:16 [notice] 1#1: exit
+2022/09/23 07:52:16 [notice] 1#1: using the "epoll" event method
+2022/09/23 07:52:16 [notice] 1#1: nginx/1.22.0
+2022/09/23 07:52:16 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/23 07:52:16 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/23 07:52:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/23 07:52:16 [notice] 1#1: start worker processes
+2022/09/23 07:52:16 [notice] 1#1: start worker process 24
+2022/09/23 07:52:16 [notice] 1#1: start worker process 25
+2022/09/23 07:52:16 [notice] 1#1: start worker process 26
+2022/09/23 07:52:16 [notice] 1#1: start worker process 27
+2022/09/23 07:52:16 [notice] 1#1: start worker process 28
+2022/09/23 07:52:16 [notice] 1#1: start worker process 29
+2022/09/23 07:52:16 [notice] 1#1: start worker process 30
+2022/09/23 07:52:16 [notice] 1#1: start worker process 31
+2022/09/23 08:05:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/23 08:05:02 [notice] 24#24: gracefully shutting down
+2022/09/23 08:05:02 [notice] 24#24: exiting
+2022/09/23 08:05:02 [notice] 31#31: gracefully shutting down
+2022/09/23 08:05:02 [notice] 29#29: gracefully shutting down
+2022/09/23 08:05:02 [notice] 25#25: gracefully shutting down
+2022/09/23 08:05:02 [notice] 31#31: exiting
+2022/09/23 08:05:02 [notice] 29#29: exiting
+2022/09/23 08:05:02 [notice] 25#25: exiting
+2022/09/23 08:05:02 [notice] 24#24: exit
+2022/09/23 08:05:02 [notice] 31#31: exit
+2022/09/23 08:05:02 [notice] 29#29: exit
+2022/09/23 08:05:02 [notice] 25#25: exit
+2022/09/23 08:05:02 [notice] 27#27: gracefully shutting down
+2022/09/23 08:05:02 [notice] 27#27: exiting
+2022/09/23 08:05:02 [notice] 30#30: gracefully shutting down
+2022/09/23 08:05:02 [notice] 30#30: exiting
+2022/09/23 08:05:02 [notice] 27#27: exit
+2022/09/23 08:05:02 [notice] 28#28: gracefully shutting down
+2022/09/23 08:05:02 [notice] 26#26: gracefully shutting down
+2022/09/23 08:05:02 [notice] 30#30: exit
+2022/09/23 08:05:02 [notice] 28#28: exiting
+2022/09/23 08:05:02 [notice] 26#26: exiting
+2022/09/23 08:05:02 [notice] 28#28: exit
+2022/09/23 08:05:02 [notice] 26#26: exit
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/23 08:05:02 [notice] 1#1: worker process 29 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: worker process 27 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/23 08:05:02 [notice] 1#1: worker process 28 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: worker process 25 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: worker process 26 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: worker process 30 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/23 08:05:02 [notice] 1#1: worker process 24 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 08:05:02 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/09/23 08:05:02 [notice] 1#1: worker process 31 exited with code 0
+2022/09/23 08:05:02 [notice] 1#1: exit
+2022/09/23 08:05:03 [notice] 1#1: using the "epoll" event method
+2022/09/23 08:05:03 [notice] 1#1: nginx/1.22.0
+2022/09/23 08:05:03 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/23 08:05:03 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/23 08:05:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/23 08:05:03 [notice] 1#1: start worker processes
+2022/09/23 08:05:03 [notice] 1#1: start worker process 23
+2022/09/23 08:05:03 [notice] 1#1: start worker process 24
+2022/09/23 08:05:03 [notice] 1#1: start worker process 25
+2022/09/23 08:05:03 [notice] 1#1: start worker process 26
+2022/09/23 08:05:03 [notice] 1#1: start worker process 27
+2022/09/23 08:05:03 [notice] 1#1: start worker process 28
+2022/09/23 08:05:03 [notice] 1#1: start worker process 29
+2022/09/23 08:05:03 [notice] 1#1: start worker process 30
+2022/09/23 09:41:47 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/23 09:41:47 [notice] 23#23: gracefully shutting down
+2022/09/23 09:41:47 [notice] 30#30: gracefully shutting down
+2022/09/23 09:41:47 [notice] 25#25: gracefully shutting down
+2022/09/23 09:41:47 [notice] 27#27: gracefully shutting down
+2022/09/23 09:41:47 [notice] 23#23: exiting
+2022/09/23 09:41:47 [notice] 30#30: exiting
+2022/09/23 09:41:47 [notice] 25#25: exiting
+2022/09/23 09:41:47 [notice] 27#27: exiting
+2022/09/23 09:41:47 [notice] 24#24: gracefully shutting down
+2022/09/23 09:41:47 [notice] 24#24: exiting
+2022/09/23 09:41:47 [notice] 27#27: exit
+2022/09/23 09:41:47 [notice] 23#23: exit
+2022/09/23 09:41:47 [notice] 30#30: exit
+2022/09/23 09:41:47 [notice] 25#25: exit
+2022/09/23 09:41:47 [notice] 24#24: exit
+2022/09/23 09:41:47 [notice] 29#29: gracefully shutting down
+2022/09/23 09:41:47 [notice] 29#29: exiting
+2022/09/23 09:41:47 [notice] 28#28: gracefully shutting down
+2022/09/23 09:41:47 [notice] 26#26: gracefully shutting down
+2022/09/23 09:41:47 [notice] 29#29: exit
+2022/09/23 09:41:47 [notice] 26#26: exiting
+2022/09/23 09:41:47 [notice] 28#28: exiting
+2022/09/23 09:41:47 [notice] 26#26: exit
+2022/09/23 09:41:47 [notice] 28#28: exit
+2022/09/23 09:41:47 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/23 09:41:47 [notice] 1#1: worker process 27 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: worker process 23 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: worker process 29 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 09:41:47 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/23 09:41:47 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/23 09:41:47 [notice] 1#1: worker process 26 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: worker process 25 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: worker process 28 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: worker process 30 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 09:41:47 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/23 09:41:47 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/23 09:41:47 [notice] 1#1: worker process 24 exited with code 0
+2022/09/23 09:41:47 [notice] 1#1: exit
+2022/09/23 09:41:47 [notice] 1#1: using the "epoll" event method
+2022/09/23 09:41:47 [notice] 1#1: nginx/1.22.0
+2022/09/23 09:41:47 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/23 09:41:47 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/23 09:41:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/23 09:41:47 [notice] 1#1: start worker processes
+2022/09/23 09:41:47 [notice] 1#1: start worker process 24
+2022/09/23 09:41:47 [notice] 1#1: start worker process 25
+2022/09/23 09:41:47 [notice] 1#1: start worker process 26
+2022/09/23 09:41:47 [notice] 1#1: start worker process 27
+2022/09/23 09:41:47 [notice] 1#1: start worker process 28
+2022/09/23 09:41:47 [notice] 1#1: start worker process 29
+2022/09/23 09:41:47 [notice] 1#1: start worker process 30
+2022/09/23 09:41:47 [notice] 1#1: start worker process 31
+2022/09/23 10:27:06 [error] 28#28: *147 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.137.222, server: agent.ptweb.shjkkc.com, request: "GET /oapi/school/list?name=&type=&status=&pageNum=1&pageSize=10&cityCode=&areaCode=&provinceCode=&ascriptionCity= HTTP/1.1", upstream: "http://119.23.209.19:8083/school/list?name=&type=&status=&pageNum=1&pageSize=10&cityCode=&areaCode=&provinceCode=&ascriptionCity=", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/schools/schoolmgmt"
+2022/09/23 10:27:06 [error] 26#26: *146 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.137.222, server: agent.ptweb.shjkkc.com, request: "GET /oapi/dict/area/list?type=province HTTP/1.1", upstream: "http://119.23.209.19:8083/dict/area/list?type=province", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/schools/schoolmgmt"
+2022/09/23 10:27:07 [error] 26#26: *160 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.137.222, server: agent.ptweb.shjkkc.com, request: "POST /oapi/school/modify HTTP/1.1", upstream: "http://119.23.209.19:8083/school/modify", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/schools/addschool?schoolId=191"
+2022/09/23 10:51:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/23 10:51:39 [notice] 24#24: gracefully shutting down
+2022/09/23 10:51:39 [notice] 24#24: exiting
+2022/09/23 10:51:39 [notice] 25#25: gracefully shutting down
+2022/09/23 10:51:39 [notice] 30#30: gracefully shutting down
+2022/09/23 10:51:39 [notice] 26#26: gracefully shutting down
+2022/09/23 10:51:39 [notice] 29#29: gracefully shutting down
+2022/09/23 10:51:39 [notice] 25#25: exiting
+2022/09/23 10:51:39 [notice] 30#30: exiting
+2022/09/23 10:51:39 [notice] 26#26: exiting
+2022/09/23 10:51:39 [notice] 29#29: exiting
+2022/09/23 10:51:39 [notice] 24#24: exit
+2022/09/23 10:51:39 [notice] 30#30: exit
+2022/09/23 10:51:39 [notice] 25#25: exit
+2022/09/23 10:51:39 [notice] 26#26: exit
+2022/09/23 10:51:39 [notice] 29#29: exit
+2022/09/23 10:51:39 [notice] 31#31: gracefully shutting down
+2022/09/23 10:51:39 [notice] 27#27: gracefully shutting down
+2022/09/23 10:51:39 [notice] 31#31: exiting
+2022/09/23 10:51:39 [notice] 28#28: gracefully shutting down
+2022/09/23 10:51:39 [notice] 28#28: exiting
+2022/09/23 10:51:39 [notice] 31#31: exit
+2022/09/23 10:51:39 [notice] 27#27: exiting
+2022/09/23 10:51:39 [notice] 28#28: exit
+2022/09/23 10:51:39 [notice] 27#27: exit
+2022/09/23 10:51:39 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/23 10:51:39 [notice] 1#1: worker process 29 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: worker process 30 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 10:51:39 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/23 10:51:39 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/23 10:51:39 [notice] 1#1: worker process 28 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: worker process 25 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: worker process 24 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: worker process 27 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: worker process 31 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/23 10:51:39 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/23 10:51:39 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/23 10:51:39 [notice] 1#1: worker process 26 exited with code 0
+2022/09/23 10:51:39 [notice] 1#1: exit
+2022/09/23 10:51:40 [notice] 1#1: using the "epoll" event method
+2022/09/23 10:51:40 [notice] 1#1: nginx/1.22.0
+2022/09/23 10:51:40 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/23 10:51:40 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/23 10:51:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/23 10:51:40 [notice] 1#1: start worker processes
+2022/09/23 10:51:40 [notice] 1#1: start worker process 24
+2022/09/23 10:51:40 [notice] 1#1: start worker process 25
+2022/09/23 10:51:40 [notice] 1#1: start worker process 26
+2022/09/23 10:51:40 [notice] 1#1: start worker process 27
+2022/09/23 10:51:40 [notice] 1#1: start worker process 28
+2022/09/23 10:51:40 [notice] 1#1: start worker process 29
+2022/09/23 10:51:40 [notice] 1#1: start worker process 30
+2022/09/23 10:51:40 [notice] 1#1: start worker process 31
+2022/09/23 11:00:38 [error] 25#25: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.137.222, server: agent.ptweb.shjkkc.com, request: "GET /oapi/school/list?name=&type=&status=&pageNum=1&pageSize=10&cityCode=&areaCode=&provinceCode=&ascriptionCity= HTTP/1.1", upstream: "http://119.23.209.19:8083/school/list?name=&type=&status=&pageNum=1&pageSize=10&cityCode=&areaCode=&provinceCode=&ascriptionCity=", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/schools/schoolmgmt"
+2022/09/23 11:00:38 [error] 24#24: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.137.222, server: agent.ptweb.shjkkc.com, request: "GET /oapi/dict/area/list?type=province HTTP/1.1", upstream: "http://119.23.209.19:8083/dict/area/list?type=province", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/schools/schoolmgmt"
+2022/09/27 06:31:11 [error] 25#25: *7380 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/addtest"
+2022/09/27 06:31:13 [error] 25#25: *7379 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/27 06:31:13 [error] 25#25: *7380 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/list?planName=&planCode=&planType=&schoolCode=&startTime=&endTime=&pageSize=10&pageNum=1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testmgmt"
+2022/09/28 03:41:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/28 03:41:46 [notice] 24#24: gracefully shutting down
+2022/09/28 03:41:46 [notice] 26#26: gracefully shutting down
+2022/09/28 03:41:46 [notice] 31#31: gracefully shutting down
+2022/09/28 03:41:46 [notice] 30#30: gracefully shutting down
+2022/09/28 03:41:46 [notice] 26#26: exiting
+2022/09/28 03:41:46 [notice] 31#31: exiting
+2022/09/28 03:41:46 [notice] 30#30: exiting
+2022/09/28 03:41:46 [notice] 24#24: exiting
+2022/09/28 03:41:46 [notice] 31#31: exit
+2022/09/28 03:41:46 [notice] 26#26: exit
+2022/09/28 03:41:46 [notice] 30#30: exit
+2022/09/28 03:41:46 [notice] 24#24: exit
+2022/09/28 03:41:46 [notice] 27#27: gracefully shutting down
+2022/09/28 03:41:46 [notice] 29#29: gracefully shutting down
+2022/09/28 03:41:46 [notice] 27#27: exiting
+2022/09/28 03:41:46 [notice] 28#28: gracefully shutting down
+2022/09/28 03:41:46 [notice] 29#29: exiting
+2022/09/28 03:41:46 [notice] 28#28: exiting
+2022/09/28 03:41:46 [notice] 27#27: exit
+2022/09/28 03:41:46 [notice] 25#25: gracefully shutting down
+2022/09/28 03:41:46 [notice] 29#29: exit
+2022/09/28 03:41:46 [notice] 28#28: exit
+2022/09/28 03:41:46 [notice] 25#25: exiting
+2022/09/28 03:41:46 [notice] 25#25: exit
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/28 03:41:46 [notice] 1#1: worker process 30 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: worker process 29 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/09/28 03:41:46 [notice] 1#1: worker process 24 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/28 03:41:46 [notice] 1#1: worker process 26 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2022/09/28 03:41:46 [notice] 1#1: worker process 31 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: worker process 27 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: worker process 28 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/28 03:41:46 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/09/28 03:41:46 [notice] 1#1: worker process 25 exited with code 0
+2022/09/28 03:41:46 [notice] 1#1: exit
+2022/09/28 03:41:47 [notice] 1#1: using the "epoll" event method
+2022/09/28 03:41:47 [notice] 1#1: nginx/1.22.0
+2022/09/28 03:41:47 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/28 03:41:47 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/28 03:41:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/28 03:41:47 [notice] 1#1: start worker processes
+2022/09/28 03:41:47 [notice] 1#1: start worker process 23
+2022/09/28 03:41:47 [notice] 1#1: start worker process 24
+2022/09/28 03:41:47 [notice] 1#1: start worker process 25
+2022/09/28 03:41:47 [notice] 1#1: start worker process 26
+2022/09/28 03:41:47 [notice] 1#1: start worker process 27
+2022/09/28 03:41:47 [notice] 1#1: start worker process 28
+2022/09/28 03:41:47 [notice] 1#1: start worker process 29
+2022/09/28 03:41:47 [notice] 1#1: start worker process 30
+2022/09/28 06:42:34 [warn] 23#23: *515 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280023"
+2022/09/28 06:50:30 [warn] 23#23: *521 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280023"
+2022/09/28 06:55:40 [warn] 24#24: *548 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280023"
+2022/09/28 06:56:46 [warn] 24#24: *574 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 06:56:48 [warn] 24#24: *574 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 06:56:48 [warn] 24#24: *574 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 06:56:49 [warn] 24#24: *574 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 06:56:49 [warn] 24#24: *574 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 07:00:48 [warn] 26#26: *596 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000009, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209260010"
+2022/09/28 07:05:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/28 07:05:29 [notice] 26#26: gracefully shutting down
+2022/09/28 07:05:29 [notice] 25#25: gracefully shutting down
+2022/09/28 07:05:29 [notice] 27#27: gracefully shutting down
+2022/09/28 07:05:29 [notice] 28#28: gracefully shutting down
+2022/09/28 07:05:29 [notice] 29#29: gracefully shutting down
+2022/09/28 07:05:29 [notice] 30#30: gracefully shutting down
+2022/09/28 07:05:29 [notice] 26#26: exiting
+2022/09/28 07:05:29 [notice] 25#25: exiting
+2022/09/28 07:05:29 [notice] 27#27: exiting
+2022/09/28 07:05:29 [notice] 28#28: exiting
+2022/09/28 07:05:29 [notice] 29#29: exiting
+2022/09/28 07:05:29 [notice] 30#30: exiting
+2022/09/28 07:05:29 [notice] 26#26: exit
+2022/09/28 07:05:29 [notice] 28#28: exit
+2022/09/28 07:05:29 [notice] 25#25: exit
+2022/09/28 07:05:29 [notice] 29#29: exit
+2022/09/28 07:05:29 [notice] 27#27: exit
+2022/09/28 07:05:29 [notice] 30#30: exit
+2022/09/28 07:05:29 [notice] 24#24: gracefully shutting down
+2022/09/28 07:05:29 [notice] 24#24: exiting
+2022/09/28 07:05:29 [notice] 23#23: gracefully shutting down
+2022/09/28 07:05:29 [notice] 23#23: exiting
+2022/09/28 07:05:29 [notice] 24#24: exit
+2022/09/28 07:05:29 [notice] 23#23: exit
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/28 07:05:29 [notice] 1#1: worker process 30 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: worker process 23 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: worker process 25 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/09/28 07:05:29 [notice] 1#1: worker process 26 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/28 07:05:29 [notice] 1#1: worker process 28 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: worker process 27 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: worker process 24 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/28 07:05:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2022/09/28 07:05:29 [notice] 1#1: worker process 29 exited with code 0
+2022/09/28 07:05:29 [notice] 1#1: exit
+2022/09/28 07:05:30 [notice] 1#1: using the "epoll" event method
+2022/09/28 07:05:30 [notice] 1#1: nginx/1.22.0
+2022/09/28 07:05:30 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/28 07:05:30 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/28 07:05:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/28 07:05:30 [notice] 1#1: start worker processes
+2022/09/28 07:05:30 [notice] 1#1: start worker process 23
+2022/09/28 07:05:30 [notice] 1#1: start worker process 24
+2022/09/28 07:05:30 [notice] 1#1: start worker process 25
+2022/09/28 07:05:30 [notice] 1#1: start worker process 26
+2022/09/28 07:05:30 [notice] 1#1: start worker process 27
+2022/09/28 07:05:30 [notice] 1#1: start worker process 28
+2022/09/28 07:05:30 [notice] 1#1: start worker process 29
+2022/09/28 07:05:30 [notice] 1#1: start worker process 30
+2022/09/28 07:11:01 [warn] 29#29: *32 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:17:38 [warn] 23#23: *122 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:20:04 [warn] 24#24: *128 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:20:10 [warn] 24#24: *145 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:16 [warn] 24#24: *152 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:54 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:55 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:55 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:55 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000009, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:55 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000010, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:55 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000011, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:56 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000012, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:56 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000013, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:56 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000014, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:23:56 [warn] 24#24: *157 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000015, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:29:36 [warn] 27#27: *282 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000016, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:30:43 [warn] 27#27: *295 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000017, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:31:29 [warn] 27#27: *295 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000018, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:33:20 [warn] 30#30: *350 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000019, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:34:38 [warn] 30#30: *354 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000020, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:35:56 [warn] 30#30: *409 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000021, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:39:11 [warn] 25#25: *517 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000022, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209270014"
+2022/09/28 07:52:20 [warn] 26#26: *642 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000023, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 08:09:37 [warn] 23#23: *906 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000024, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 08:10:23 [warn] 24#24: *936 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000025, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:08:16 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000026, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:08:27 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000027, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:08:55 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000028, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:09:19 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000029, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:09:59 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000030, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:28 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000031, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:41 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000032, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:41 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000033, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:41 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000034, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:41 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000035, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:42 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000036, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:10:42 [warn] 29#29: *1926 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000037, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:30:48 [warn] 30#30: *2118 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000038, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:32:47 [warn] 27#27: *2138 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000039, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:37:07 [warn] 30#30: *2159 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000040, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:40:14 [warn] 30#30: *2170 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000041, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:44:14 [error] 30#30: *2175 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/list HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/score/list", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209280028"
+2022/09/28 09:44:17 [error] 30#30: *2175 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/school HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/school", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209280028"
+2022/09/28 09:44:17 [error] 30#30: *2172 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "GET /oapi/plan/detail?planCode=202209280028 HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/detail?planCode=202209280028", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209280028"
+2022/09/28 09:44:17 [error] 30#30: *2175 connect() failed (111: Connection refused) while connecting to upstream, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/data/totalProgress HTTP/1.1", upstream: "http://119.23.209.19:8083/plan/data/totalProgress", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/testdetail?planCode=202209280028"
+2022/09/28 09:50:49 [warn] 25#25: *2240 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000042, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 09:51:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/09/28 09:51:23 [notice] 23#23: gracefully shutting down
+2022/09/28 09:51:23 [notice] 28#28: gracefully shutting down
+2022/09/28 09:51:23 [notice] 29#29: gracefully shutting down
+2022/09/28 09:51:23 [notice] 25#25: gracefully shutting down
+2022/09/28 09:51:23 [notice] 26#26: gracefully shutting down
+2022/09/28 09:51:23 [notice] 23#23: exiting
+2022/09/28 09:51:23 [notice] 27#27: gracefully shutting down
+2022/09/28 09:51:23 [notice] 30#30: gracefully shutting down
+2022/09/28 09:51:23 [notice] 29#29: exiting
+2022/09/28 09:51:23 [notice] 26#26: exiting
+2022/09/28 09:51:23 [notice] 27#27: exiting
+2022/09/28 09:51:23 [notice] 30#30: exiting
+2022/09/28 09:51:23 [notice] 23#23: exit
+2022/09/28 09:51:23 [notice] 26#26: exit
+2022/09/28 09:51:23 [notice] 27#27: exit
+2022/09/28 09:51:23 [notice] 29#29: exit
+2022/09/28 09:51:23 [notice] 30#30: exit
+2022/09/28 09:51:23 [notice] 28#28: exiting
+2022/09/28 09:51:23 [notice] 28#28: exit
+2022/09/28 09:51:23 [notice] 25#25: exiting
+2022/09/28 09:51:23 [notice] 24#24: gracefully shutting down
+2022/09/28 09:51:23 [notice] 24#24: exiting
+2022/09/28 09:51:23 [notice] 25#25: exit
+2022/09/28 09:51:23 [notice] 24#24: exit
+2022/09/28 09:51:23 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/09/28 09:51:23 [notice] 1#1: worker process 24 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 23 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 25 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 26 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 28 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 29 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: worker process 30 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: signal 29 (SIGIO) received
+2022/09/28 09:51:23 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2022/09/28 09:51:23 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/09/28 09:51:23 [notice] 1#1: worker process 27 exited with code 0
+2022/09/28 09:51:23 [notice] 1#1: exit
+2022/09/28 09:51:24 [notice] 1#1: using the "epoll" event method
+2022/09/28 09:51:24 [notice] 1#1: nginx/1.22.0
+2022/09/28 09:51:24 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/09/28 09:51:24 [notice] 1#1: OS: Linux 3.10.0-1160.66.1.el7.x86_64
+2022/09/28 09:51:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/09/28 09:51:24 [notice] 1#1: start worker processes
+2022/09/28 09:51:24 [notice] 1#1: start worker process 24
+2022/09/28 09:51:24 [notice] 1#1: start worker process 25
+2022/09/28 09:51:24 [notice] 1#1: start worker process 26
+2022/09/28 09:51:24 [notice] 1#1: start worker process 27
+2022/09/28 09:51:24 [notice] 1#1: start worker process 28
+2022/09/28 09:51:24 [notice] 1#1: start worker process 29
+2022/09/28 09:51:24 [notice] 1#1: start worker process 30
+2022/09/28 09:51:24 [notice] 1#1: start worker process 31
+2022/09/28 09:51:49 [warn] 25#25: *3 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280024"
+2022/09/28 11:57:04 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:08 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:09 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:10 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:11 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:11 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:12 [warn] 26#26: *1496 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:57:24 [warn] 27#27: *1505 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000009, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 11:58:18 [warn] 26#26: *1504 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000010, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
+2022/09/28 12:04:16 [warn] 27#27: *1542 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000011, client: 116.30.132.104, server: agent.ptweb.shjkkc.com, request: "POST /oapi/plan/score/excel/import HTTP/1.1", host: "agent.ptweb.shjkkc.com", referrer: "https://agent.ptweb.shjkkc.com/tests/scoreimport?planCode=202209280030"
